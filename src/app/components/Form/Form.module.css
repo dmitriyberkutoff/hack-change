@@ -1,0 +1,23 @@
+.form {
+    border: 1px solid var(--green);
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    width: 500px;
+    height: 100%;
+    border-radius: 12px;
+    padding: 20px;
+    overflow: scroll;
+}
+
+.high {
+    color: var(--red);
+}
+
+.medium {
+    color: var(--orange);
+}
+
+.low {
+    color: var(--green);
+}

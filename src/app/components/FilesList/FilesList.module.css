@@ -1,0 +1,14 @@
+.list__item {
+    border: 1px solid black;
+}
+
+.list__item:hover {
+    cursor: pointer;
+    border: 1px solid dodgerblue;
+}
+
+.main_doc {
+    height: 700px;
+    overflow: scroll;
+    border: 1px solid black;
+}

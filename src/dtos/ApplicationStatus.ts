@@ -1,0 +1,1 @@
+export type ApplicationStatus = 'NEW' | 'IN_PROGRESS' | 'ADDITIONAL_INFORMATION_REQUEST' | 'PENDING' | 'FINALIZED';
